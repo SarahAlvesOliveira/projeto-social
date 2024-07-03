@@ -29,7 +29,31 @@ section#telefone {
     left: 50%;
     transform: translate(-50%, -50%);
 
+    /*
+    height: 425px;
+    width: 211px;
+    background-size: cover; 
+    */
+
     height: 627px;
     width: 311px;
     background: url(../imagens/frame-iphone.png) no-repeat;
+}
+
+iframe#tela {
+    position: relative;
+    top: 80px; 
+    left: 22px;
+
+    /* 
+    top: 55px;
+    left: 15px;
+    width: 181px;
+    height: 318px;
+    background-size: cover;
+    */
+
+    width: 268px;
+    height: 471px;
+    
 }
